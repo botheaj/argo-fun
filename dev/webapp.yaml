@@ -27,6 +27,6 @@ spec:
     spec:
       containers:
       - name: myapp
-        image: ajbot/containers-for-testing:web-demo-amdv2
+        image: ajbot/containers-for-testing:web-demo-amdv3
         ports:
         - containerPort: 8001
